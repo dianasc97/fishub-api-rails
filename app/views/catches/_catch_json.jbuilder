@@ -1,0 +1,1 @@
+json.(aCatch, :id, :species, :weight, :length, :Created_at)
